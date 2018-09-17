@@ -3,7 +3,7 @@ Paper Jira
 
 Install
 -------
-Just create a bookmark called _paper jira_ and set the the following code content as target: [paper-jira.min.js](http://github.com/caillou/paper-jira/blob/master/paper-jira.min.js)
+Just create a bookmark called _paper jira_ and set the following code content as target: [paper-jira.min.js](http://github.com/caillou/paper-jira/blob/master/paper-jira.min.js)
 
 About
 -----
